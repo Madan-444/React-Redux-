@@ -60,6 +60,9 @@ store.dispatch(buyCake())
 store.dispatch(buyIcream())
 store.dispatch(buyIcream())
 store.dispatch(buyIcream())
+store.dispatch(buyIcream())
+store.dispatch(buyIcream())
+
 
 unsubscribe()
 
